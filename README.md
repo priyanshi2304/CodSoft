@@ -1,4 +1,4 @@
-# CodSoft
+# Task 1
 Portfolio Website
 Technologies Used: HTML, CSS, JavaScript
 
